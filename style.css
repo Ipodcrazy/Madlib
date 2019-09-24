@@ -1,0 +1,53 @@
+html {
+    background-color: rgb(135, 206, 234);
+}
+
+body {
+    margin: 0 auto;
+    width: 600px;
+    background-color: white;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+
+h1 {
+    color: rgb(135, 206, 234);
+    font-family:  'Archivo Black', sans-serif;
+}
+
+h3 {
+    font-family:  'Archivo Black', sans-serif;
+}
+
+p {
+    font-family: 'Tajawal', sans-serif;
+}
+
+ul {
+    font-family: 'Tajawal', sans-serif;
+}
+
+li {
+    padding-bottom: 5px;
+}
+#para {
+    border: 2px solid orange;
+    font-family: 'Lexend Deca', sans-serif;
+    padding: 10px;
+    transition: border-width 0.6s linear;
+}
+
+#para:hover {
+    border-width: 10px;
+}
+#btn {
+    color: white;
+    background-color: rgb(135, 206, 234);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 15px;
+}
